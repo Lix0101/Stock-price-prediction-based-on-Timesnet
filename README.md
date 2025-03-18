@@ -14,8 +14,8 @@ Data Cleaning: Handling missing values, outliers, and duplicate data.
 Data Transformation: Standardization, normalization, and encoding categorical variables.
 
 Feature Engineering: Creating new features, selecting important features, and performing dimensionality reduction.
-![image](https://github.com/user-attachments/assets/81026575-d11b-4070-8d92-1797a8e10ea8)
-![image](https://github.com/user-attachments/assets/f62e2ffc-5f20-4989-aa68-bf100c8b0a3b)
+![image](https://github.com/user-attachments/assets/81026575-d11b-4070-8d92-1797a8e10ea8) ![image](https://github.com/user-attachments/assets/f62e2ffc-5f20-4989-aa68-bf100c8b0a3b)
+
 
 
 
